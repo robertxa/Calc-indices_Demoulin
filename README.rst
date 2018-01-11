@@ -266,5 +266,5 @@ Good Luck
 LICENCE
 -------
 
-This package is licenced with `CCby-nc <https://creativecommons.org/licenses/by-nc-sa/3.0/>`_
+This package is licenced with `CCby-nc-sa <https://creativecommons.org/licenses/by-nc-sa/3.0/>`_
 
