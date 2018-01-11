@@ -32,8 +32,6 @@ REQUIREMENTS:
 	- package Scipy 0.12 or higher
 	
 	- package dbfpy (need to be installed from http://dbfpy.sourceforge.net, see python package installation tutorial)
-	
-	- (install or update via easy_install)
 
 
 How to run the scripts: Cookbook
