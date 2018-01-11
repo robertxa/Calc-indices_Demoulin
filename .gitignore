@@ -1,0 +1,8 @@
+*.txt
+*.pdf
+tarngo.sh
+Graph/
+Rasters/
+RProfils/
+Shp_files/
+TMP/
